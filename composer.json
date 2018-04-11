@@ -1,0 +1,18 @@
+{
+    "name": "componentsforyii2/markdown-edit",
+    "description": "yii2 markdown编辑器",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Yuanshuai",
+            "email": "yuanshuai@mybns.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "componentsforyii2\\markdown\\": ""
+        }
+    }
+}
